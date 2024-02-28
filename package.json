@@ -1,6 +1,7 @@
 {
   "name": "loteria",
   "version": "0.1.0",
+  "homepage": "https://24aivideos.github.io/loteria",
   "private": true,
   "scripts": {
     "dev": "next dev",
